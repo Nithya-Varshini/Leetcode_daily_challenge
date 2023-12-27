@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 class Solution {
 public:
-    const int mod = (int)pow(10, 9) + 7; // Modulo value for calculations
+    const int mod = (int)pow(10, 9) + 7; 
 
     // Function to calculate the number of ways to obtain a target sum using 'n' dice rolls with 'k' faces on each die
     int numRollsToTarget(int n, int k, int target) {
